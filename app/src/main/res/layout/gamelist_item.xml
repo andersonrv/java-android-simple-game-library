@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:id="@+id/parent_layout">
+
+    <ImageView
+        android:id="@+id/game_pic"
+        android:src="@mipmap/ic_launcher"
+        android:layout_width="172dp"
+        android:layout_height="103dp"
+        android:contentDescription="desc"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"/>
+
+    <TextView
+        android:id="@+id/game_title"
+        android:text="Game Title"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/game_pic"
+        android:paddingBottom="10dp"/>
+
+    <TextView
+        android:id="@+id/game_genre"
+        android:text="Genre Types"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/game_pic"
+        android:layout_below="@id/game_title"
+        android:textSize="12sp"/>
+
+    <TextView
+        android:id="@+id/game_description"
+        android:text="I know I am not supposed to store data in the View elements."
+        android:layout_width="0sp"
+        android:layout_height="0sp"/>
+
+    <TextView
+        android:id="@+id/game_link"
+        android:text="I know I am not supposed to store data in the View elements."
+        android:layout_width="0sp"
+        android:layout_height="0sp" />
+
+</RelativeLayout>

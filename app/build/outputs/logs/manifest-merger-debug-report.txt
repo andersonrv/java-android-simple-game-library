@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:design:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c3bdf15ab2b68769a77cead0d09f93ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/aad60672cb10f72c5a6aa82182dfc87e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8e0bf975a15d54b69dfbaa349f4ef637/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/288cc6662274c33dc798f50c656f9d0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/e9ea3cfc10cac8adc4d5126862ea7de7/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/fb1c5304871d89ef4acda91c23e8e0f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ab22bbd7336f6e9f15895f5bd9068837/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3a45aa94c8bc9453a0a3a676dda3a138/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8c1241ee40efd291759d78485321bad7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5c1519ecb105afaaeb2c9772af6d76a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/121b5a42842d3a5a3f927d867a417c4e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/fb446aec07beba6057d19d579283d7ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/31c432e4a81eb4341a7ccf0a25ee8199/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a7d72651beb7746f0ad2b5930701f1c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/bf83cd7cdbf443b6d535e6d53e09070d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/845103c7f7dbc04466e8f81a98b6ea51/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c46f4f06b30aae0ccb1b312c123eadfa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bb19221771bf07ab7e8a28817b4e2328/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0a119b9d05a2d218e51ea81fab9ca416/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:7:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8e0bf975a15d54b69dfbaa349f4ef637/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8e0bf975a15d54b69dfbaa349f4ef637/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/e9ea3cfc10cac8adc4d5126862ea7de7/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/e9ea3cfc10cac8adc4d5126862ea7de7/AndroidManifest.xml:7:5-12:19
+	android:supportsRtl
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:13:9-40
+activity#android.example.e_games.GameDetailsActivity
+ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:14:9-21:20
+	android:parentActivityName
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:16:13-55
+	android:label
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:14:19-54
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:17:13-20:62
+	android:value
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:19:17-90
+	android:name
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:18:17-63
+activity#android.example.e_games.AboutActivity
+ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:22:9-29:20
+	android:parentActivityName
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:25:13-55
+	android:label
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:24:13-34
+	android:name
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:23:13-42
+activity#android.example.e_games.MainActivity
+ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:30:9-36:20
+	android:name
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:30:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml
+INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c3bdf15ab2b68769a77cead0d09f93ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c3bdf15ab2b68769a77cead0d09f93ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/aad60672cb10f72c5a6aa82182dfc87e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/aad60672cb10f72c5a6aa82182dfc87e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8e0bf975a15d54b69dfbaa349f4ef637/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8e0bf975a15d54b69dfbaa349f4ef637/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/288cc6662274c33dc798f50c656f9d0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/288cc6662274c33dc798f50c656f9d0f/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/e9ea3cfc10cac8adc4d5126862ea7de7/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/e9ea3cfc10cac8adc4d5126862ea7de7/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/fb1c5304871d89ef4acda91c23e8e0f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/fb1c5304871d89ef4acda91c23e8e0f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ab22bbd7336f6e9f15895f5bd9068837/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ab22bbd7336f6e9f15895f5bd9068837/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3a45aa94c8bc9453a0a3a676dda3a138/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3a45aa94c8bc9453a0a3a676dda3a138/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8c1241ee40efd291759d78485321bad7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8c1241ee40efd291759d78485321bad7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5c1519ecb105afaaeb2c9772af6d76a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5c1519ecb105afaaeb2c9772af6d76a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/121b5a42842d3a5a3f927d867a417c4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/121b5a42842d3a5a3f927d867a417c4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/fb446aec07beba6057d19d579283d7ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/fb446aec07beba6057d19d579283d7ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/31c432e4a81eb4341a7ccf0a25ee8199/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/31c432e4a81eb4341a7ccf0a25ee8199/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a7d72651beb7746f0ad2b5930701f1c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a7d72651beb7746f0ad2b5930701f1c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/bf83cd7cdbf443b6d535e6d53e09070d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/bf83cd7cdbf443b6d535e6d53e09070d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/845103c7f7dbc04466e8f81a98b6ea51/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/845103c7f7dbc04466e8f81a98b6ea51/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c46f4f06b30aae0ccb1b312c123eadfa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c46f4f06b30aae0ccb1b312c123eadfa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bb19221771bf07ab7e8a28817b4e2328/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bb19221771bf07ab7e8a28817b4e2328/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0a119b9d05a2d218e51ea81fab9ca416/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0a119b9d05a2d218e51ea81fab9ca416/AndroidManifest.xml:20:5-44
+INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml
+INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/e9ea3cfc10cac8adc4d5126862ea7de7/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/e9ea3cfc10cac8adc4d5126862ea7de7/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/e9ea3cfc10cac8adc4d5126862ea7de7/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/andersonviana/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/e9ea3cfc10cac8adc4d5126862ea7de7/AndroidManifest.xml:9:13-64

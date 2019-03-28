@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sodv3203-assignment1-resendeviana-anderson.iml" filepath="$PROJECT_DIR$/sodv3203-assignment1-resendeviana-anderson.iml" />
+    </modules>
+  </component>
+</project>

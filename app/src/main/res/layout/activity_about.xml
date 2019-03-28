@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollView"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scrollbars="horizontal">
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical"
+        tools:context=".AboutActivity">
+
+        <TextView
+            android:id="@+id/dev_title"
+            android:text="@string/developer_tag"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:padding="10sp"/>
+
+        <TextView
+            android:id="@+id/dev_content1"
+            android:text="@string/developer_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:paddingTop="0sp"
+            android:paddingRight="10sp"
+            android:paddingBottom="20sp"
+            android:paddingLeft="20sp"/>
+
+        <TextView
+            android:id="@+id/source_title"
+            android:text="@string/sources_tag"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:padding="10sp"/>
+
+        <TextView
+            android:id="@+id/source_content1"
+            android:text="@string/source_ref1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:paddingTop="0sp"
+            android:paddingRight="10sp"
+            android:paddingBottom="20sp"
+            android:paddingLeft="20sp"/>
+
+
+        <TextView
+            android:id="@+id/source_content2"
+            android:text="@string/source_ref2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:paddingTop="0sp"
+            android:paddingRight="10sp"
+            android:paddingBottom="20sp"
+            android:paddingLeft="20sp"/>
+
+        <TextView
+            android:id="@+id/source_content3"
+            android:text="@string/source_ref3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:paddingTop="0sp"
+            android:paddingRight="10sp"
+            android:paddingBottom="20sp"
+            android:paddingLeft="20sp"/>
+
+        <TextView
+            android:id="@+id/questions_title"
+            android:text="@string/questions_tag"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:padding="10sp"/>
+
+        <TextView
+            android:id="@+id/question_content1"
+            android:text="@string/questions_ref1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:paddingTop="0sp"
+            android:paddingRight="10sp"
+            android:paddingBottom="20sp"
+            android:paddingLeft="20sp"/>
+
+    </LinearLayout>
+
+</ScrollView>
+
+

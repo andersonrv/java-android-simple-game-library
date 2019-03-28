@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">E-Games</string>
+    <string name="title_activity_game_details">GameDetailsActivity</string>
+    <string name="description">Description:</string>
+    <string name="desc">desc</string>
+    <string name="description_text_goes_here">Description text goes here...</string>
+    <string name="button_label">View offer</string>
+    <string name="developer_tag">Developer:</string>
+    <string name="developer_name">Anderson Resende Viana</string>
+    <string name="sources_tag">Sources:</string>
+    <string name="source_ref1">https://codelabs.developers.google.com/android-training/</string>
+    <string name="source_ref2">https://developer.android.com/docs/</string>
+    <string name="questions_tag">Questions:</string>
+    <string name="questions_ref1">a.resendeviana683@mybvc.ca</string>
+    <string name="source_ref3">http://square.github.io/picasso/</string>
+</resources>

@@ -1,0 +1,4 @@
+#Thu Mar 28 04:36:05 MDT 2019
+base.0=/Users/andersonviana/Desktop/SODV3203/sodv3203-assignment1-resendeviana-anderson/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
